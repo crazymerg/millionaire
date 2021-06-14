@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "1FC3F383-92A7-462B-A253-393E76CBBBD5"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C22BBD4D-556F-4F28-8303-BB277A89921D"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "millionaire/GameSession.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "24"
+            endingLineNumber = "24"
+            landmarkName = "init(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "C22BBD4D-556F-4F28-8303-BB277A89921D - 140c1800a49eda80"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "millionaire.GameSession.__allocating_init(Swift.Array&lt;millionaire.Question&gt;) -&gt; millionaire.GameSession"
+                  moduleName = "millionaire"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/merg/swift/millionaire/millionaire/GameSession.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "21">
+               </Location>
+               <Location
+                  uuid = "C22BBD4D-556F-4F28-8303-BB277A89921D - c6c13b84f30c99e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "millionaire.GameSession.init(Swift.Array&lt;millionaire.Question&gt;) -&gt; millionaire.GameSession"
+                  moduleName = "millionaire"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/merg/swift/millionaire/millionaire/GameSession.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "119">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6272BBE5-CB72-4888-A201-E85AF6346D21"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "millionaire/ResultsViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "28"
+            endingLineNumber = "28"
+            landmarkName = "tableView(_:cellForRowAt:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
