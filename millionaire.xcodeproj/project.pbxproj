@@ -17,6 +17,9 @@
 		CB7101B12671577E00AF4F8E /* Game.swift in Sources */ = {isa = PBXBuildFile; fileRef = CB7101B02671577E00AF4F8E /* Game.swift */; };
 		CB7101B32671591E00AF4F8E /* Result.swift in Sources */ = {isa = PBXBuildFile; fileRef = CB7101B22671591E00AF4F8E /* Result.swift */; };
 		CB7101B5267159F600AF4F8E /* GameSession.swift in Sources */ = {isa = PBXBuildFile; fileRef = CB7101B4267159F600AF4F8E /* GameSession.swift */; };
+		CB7101BD2679390800AF4F8E /* ResultsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CB7101BC2679390800AF4F8E /* ResultsViewController.swift */; };
+		CB7101BF2679429A00AF4F8E /* TableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = CB7101BE2679429A00AF4F8E /* TableViewCell.swift */; };
+		CB7101C1267950AF00AF4F8E /* ResultsCaretaker.swift in Sources */ = {isa = PBXBuildFile; fileRef = CB7101C0267950AF00AF4F8E /* ResultsCaretaker.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -32,6 +35,9 @@
 		CB7101B02671577E00AF4F8E /* Game.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Game.swift; sourceTree = "<group>"; };
 		CB7101B22671591E00AF4F8E /* Result.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Result.swift; sourceTree = "<group>"; };
 		CB7101B4267159F600AF4F8E /* GameSession.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GameSession.swift; sourceTree = "<group>"; };
+		CB7101BC2679390800AF4F8E /* ResultsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ResultsViewController.swift; sourceTree = "<group>"; };
+		CB7101BE2679429A00AF4F8E /* TableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TableViewCell.swift; sourceTree = "<group>"; };
+		CB7101C0267950AF00AF4F8E /* ResultsCaretaker.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ResultsCaretaker.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -74,6 +80,9 @@
 				CB7101AC2671566B00AF4F8E /* GameViewController.swift */,
 				CB7101B02671577E00AF4F8E /* Game.swift */,
 				CB7101B4267159F600AF4F8E /* GameSession.swift */,
+				CB7101BC2679390800AF4F8E /* ResultsViewController.swift */,
+				CB7101BE2679429A00AF4F8E /* TableViewCell.swift */,
+				CB7101C0267950AF00AF4F8E /* ResultsCaretaker.swift */,
 			);
 			path = millionaire;
 			sourceTree = "<group>";
@@ -160,10 +169,13 @@
 				CB7101B32671591E00AF4F8E /* Result.swift in Sources */,
 				CB7101AD2671566B00AF4F8E /* GameViewController.swift in Sources */,
 				CB7101B12671577E00AF4F8E /* Game.swift in Sources */,
+				CB7101C1267950AF00AF4F8E /* ResultsCaretaker.swift in Sources */,
+				CB7101BF2679429A00AF4F8E /* TableViewCell.swift in Sources */,
 				CB7101AB266FFBA500AF4F8E /* Question.swift in Sources */,
 				CB7101B5267159F600AF4F8E /* GameSession.swift in Sources */,
 				CB710196266FFA9100AF4F8E /* AppDelegate.swift in Sources */,
 				CB710198266FFA9100AF4F8E /* SceneDelegate.swift in Sources */,
+				CB7101BD2679390800AF4F8E /* ResultsViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
